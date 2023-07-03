@@ -2,8 +2,8 @@
 Ensure you have the following:
 - Python (add any packages using pip install packagename)
 - Discord
-  - Access to our server (link provided in Canvas)
-  - Our application key (reach out if you need access)
+  - Open a discord server that has a bot (Cannot allow access to my server as I will have to personally let you in everytime. Also a lot of sentitive information on my server)
+  - Connect the bot using the application key
 - Cloned code from this repository
 
 ## Running the Bot
